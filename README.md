@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3Castor6Pollux9 a.k.a - Tanner
 - 👀 I’m interested in ... Cybersecurity, automation and robotics 
-- 🌱 I’m currently learning ... Cybersecuirty, Raspberry Pi Projects 
+- 🌱 I’m currently learning ... Cybersecurity, Raspberry Pi Projects 
 - 💞️ I’m looking to collaborate on ... Buisness Ventures
 - 📫 How to reach me ...
 
